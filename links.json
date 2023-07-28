@@ -1,0 +1,149 @@
+{
+    "robloxAPIs":[
+                    {
+                        "name":"Roblox Site",
+                        "url":"https://www.roblox.com/",
+                        "uniqid": "1001"
+                    },
+                    {
+                        "name":"Roblox Auth",
+                        "url":"https://auth.roblox.com",
+                        "uniqid": "1002"
+                    },
+                    {
+                        "name":"Roblox DevForum",
+                        "url":"https://devforum.roblox.com",
+                        "uniqid": "1003"
+                    },
+                    {
+                        "name":"Roblox TalentHub",
+                        "url":"https://talent.roblox.com",
+                        "uniqid": "1004"
+                    },
+                    {
+                        "name":"Roblox DocSite",
+                        "url":"https://create.roblox.com/docs/reference/engine",
+                        "uniqid": "1005"
+                    },
+                    {
+                        "name":"Account Information",
+                        "url":"https://accountinformation.roblox.com/",
+                        "uniqid": "1006"
+                    },
+                    {
+                        "name":"Account Settings",
+                        "url":"https://accountsettings.roblox.com/",
+                        "uniqid": "1007"
+                    },
+                    {
+                        "name":"Asset Delivery",
+                        "url":"https://assetdelivery.roblox.com/",
+                        "uniqid": "1008"
+                    },
+                    {
+                        "name":"Avatar API",
+                        "url":"https://avatar.roblox.com/",
+                        "uniqid": "1009"
+                    },
+                    {
+                        "name":"Catalog API",
+                        "url":"https://catalog.roblox.com/",
+                        "uniqid": "1010"
+                    },
+                    {
+                        "name":"Auth API",
+                        "url":"https://auth.roblox.com/",
+                        "uniqid": "1011"
+                    },
+                    {
+                        "name":"Badges API",
+                        "url":"https://badges.roblox.com/",
+                        "uniqid": "1012"
+                    },
+                    {
+                        "name":"Billing API",
+                        "url":"https://billing.roblox.com",
+                        "uniqid": "1013"
+                    },
+                    {
+                        "name":"DataStore API",
+                        "url":"https://gamepersistence.roblox.com/",
+                        "uniqid": "1014"
+                    },
+                    {
+                        "name":"Develop API",
+                        "url":"https://develop.roblox.com/",
+                        "uniqid": "1015"
+                    },
+                    {
+                        "name":"Economy API",
+                        "url":"https://economy.roblox.com/",
+                        "uniqid": "1016"
+                    },
+                    {
+                        "name":"Friends API",
+                        "url":"https://friends.roblox.com/",
+                        "uniqid": "1017"
+                    },
+                    {
+                        "name":"GameJoin API",
+                        "url":"http://gamejoin.roblox.com/",
+                        "uniqid": "1018"
+                    },
+                    {
+                        "name":"Games API",
+                        "url":"https://games.roblox.com/",
+                        "uniqid": "1019"
+                    },
+                    {
+                        "name":"Groups API",
+                        "url":"https://groups.roblox.com/",
+                        "uniqid": "1020"
+                    },
+                    {
+                        "name":"Inventory API",
+                        "url":"https://inventory.roblox.com/",
+                        "uniqid": "1021"
+                    },
+                    {
+                        "name":"Thumbnails API",
+                        "url":"https://thumbnails.roblox.com/",
+                        "uniqid": "1022"
+                    },
+                    {
+                        "name":"Users API",
+                        "url":"https://users.roblox.com/",
+                        "uniqid": "1023"
+                    },
+                    {
+                        "name":"VoiceChat API",
+                        "url":"https://voice.roblox.com/",
+                        "uniqid": "1024"
+                    },
+                    {
+                        "name":"PremiumFeatures API",
+                        "url":"https://premiumfeatures.roblox.com/",
+                        "uniqid": "1026"
+                    },
+                    {
+                        "name":"PrivateMessages API",
+                        "url":"https://privatemessages.roblox.com/",
+                        "uniqid": "1027"
+                    },
+                    {
+                        "name":"Chat API",
+                        "url":"https://chat.roblox.com/",
+                        "uniqid": "1028"
+                    },
+                    {
+                        "name":"Contacts API",
+                        "url":"https://contacts.roblox.com/",
+                        "uniqid": "1029"
+                    },
+                    {
+                        "name":"2FA API",
+                        "url":"https://twostepverification.roblox.com/",
+                        "uniqid": "1030"
+                    }
+                ]
+}
